@@ -28,7 +28,6 @@ MoDoc AI builds AI-enhanced digital healthcare tools that help parents navigate 
 | Project | What it does |
 | --- | --- |
 | [**mr-overkill**](https://github.com/modocai/mr-overkill) | A perfectly over-engineered merge-request review bot. Because code reviews deserve a little drama. |
-| [**google-chat-mcp-server**](https://github.com/modocai/google-chat-mcp-server) | MCP server for Google Chat — let your AI read and send messages across Spaces. |
 
 ## 🛠️ Tech We Work With
 
