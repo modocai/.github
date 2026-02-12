@@ -18,6 +18,13 @@ MoDoc AI builds AI-enhanced digital healthcare tools that help parents navigate 
 
 **FeverCoach** is a smart companion for parents managing childhood fevers and illness.
 
+<p>
+  <a href="https://www.fevercoach.us"><img src="https://img.shields.io/badge/FeverCoach-fevercoach.us-6B5EA9?style=flat-square" alt="FeverCoach Website" /></a>
+  <a href="https://www.reddit.com/r/FeverCoach/"><img src="https://img.shields.io/badge/Reddit-r%2FFeverCoach-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit Community" /></a>
+  <a href="https://apps.apple.com/app/apple-store/id6504201193"><img src="https://img.shields.io/badge/App_Store-Download-000000?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.modocai.fevercoach"><img src="https://img.shields.io/badge/Google_Play-Download-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" /></a>
+</p>
+
 - **Fever Tracking** — Log temperatures over time and visualize trends at a glance
 - **Smart Medication Reminders** — Never miss a dose with timely, weight-based alerts
 - **Personalized Health Guidance** — Evidence-based advice tailored to your child's age, weight, and symptoms
